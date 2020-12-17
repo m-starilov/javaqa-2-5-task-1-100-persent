@@ -63,8 +63,8 @@
                                     <limits>
                                         <limit>
                                             <counter>LINE</counter>
-                                            <value>MISSEDCOUNT</value>
-                                            <maximum>0</maximum>
+                                            <value>COVEREDRATIO</value>
+                                            <minimum>100%</minimum>
                                         </limit>
                                     </limits>
                                 </rule>
